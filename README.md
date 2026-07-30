@@ -1,21 +1,24 @@
 # Azure Translation Portfolio
 
-This repository contains my Japanese translations of Azure technical documentation.
+This repository contains Japanese translations of Microsoft Learn Azure documentation.
 
-The purpose of this repository is to demonstrate my ability to translate Azure documentation accurately while maintaining Microsoft terminology and producing natural Japanese.
+The translations are created using an AI-assisted workflow and manually reviewed for:
 
-## Translation workflow
+- Microsoft terminology
+- Azure Portal UI consistency
+- Technical accuracy
+- Natural Japanese
 
-1. AI-assisted first draft
-2. Manual review
-3. Azure terminology verification
-4. Quality review
-5. Final revision
-
-## Focus areas
+Current focus
 
 - Azure Monitor
 - Log Analytics
 - Azure RBAC
-- Azure Storage
-- Azure Networking
+
+Translation workflow
+
+1. AI-assisted draft
+2. Manual review
+3. Terminology verification
+4. Quality review
+5. Final revision
