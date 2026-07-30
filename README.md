@@ -51,3 +51,12 @@ Topics covered:
 - RBAC Roles
 - Data Retention
 - Health Status Alerts
+
+## Repository Structure
+translations/
+└── azure-monitor/
+├── 01-introduction.md
+├── 02-log-analytics-workspace.md
+├── 03-workspace-access.md
+├── 04-data-retention.md
+└── 05-health-status-alerts.md
