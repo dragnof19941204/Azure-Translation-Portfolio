@@ -16,3 +16,7 @@
 ## Future Improvements
 
 Continue studying Azure monitoring and automation technologies.
+
+## Operational Perspective
+
+Azure Monitor Agent and Data Collection Rules can simplify monitoring configuration across multiple virtual machines. In operational environments, centralized management helps improve consistency while reducing maintenance effort.
