@@ -1,31 +1,67 @@
-Azure Monitor
+# Technical Skills
 
-Azure Backup
+## Azure
 
-Azure Virtual Machines
+- Azure Monitor
+- Azure Monitor Alerts
+- Azure Monitor Agent
+- Azure Backup
+- Azure Virtual Machines
+- Log Analytics
+- Azure RBAC
+- Azure Portal
+- Azure Resource Manager
+- Azure Operations
 
-Azure Monitor Agent
+---
 
-Azure RBAC
+## Query Languages
 
-Azure Alerts
+- Kusto Query Language (KQL)
 
-Azure Log Analytics
+---
 
-KQL
+## Documentation
 
-Azure Portal
+- Microsoft Learn
+- Technical Documentation
+- Markdown
+- GitHub
 
-Technical Documentation
+---
 
-Microsoft Learn
+## Translation Skills
 
-GitHub
+- English → Japanese Technical Translation
+- AI-assisted Translation
+- Microsoft Terminology Verification
+- Azure Portal UI Consistency Review
+- Technical Documentation Review
+- Quality Assurance (QA)
 
-Markdown
+---
 
-AI-assisted Translation
+## AI Tools
 
-ChatGPT
+- ChatGPT
+- Claude
 
-Claude
+---
+
+## Workflow
+
+- AI-assisted Draft Creation
+- Manual Technical Review
+- Terminology Verification
+- Quality Assurance
+- Final Proofreading
+
+---
+
+## Areas of Interest
+
+- Azure Infrastructure
+- Cloud Operations
+- Monitoring
+- Technical Translation
+- Technical Writing
