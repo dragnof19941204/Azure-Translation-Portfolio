@@ -1,62 +1,53 @@
-# Azure Translation Portfolio
-
-This repository contains Japanese translations of Microsoft Learn Azure documentation.
-
-The purpose of this portfolio is to demonstrate my ability to understand Azure technical concepts and create accurate Japanese technical translations using an AI-assisted workflow.
+# Azure Technical Documentation Portfolio
 
 ## About Me
 
-Azure Operations Engineer specializing in Azure infrastructure operations and monitoring.
+## Portfolio
 
-This portfolio combines:
-- Azure technical knowledge
-- AI-assisted translation workflow
-- Microsoft terminology management
-- Technical documentation quality review
+Azure Monitor
 
-## Translation Quality Process
+Azure Monitor Alerts
 
-Each translation follows this workflow:
+Azure Monitor Agent
 
-1. AI-assisted draft
-2. Manual technical review
-3. Microsoft terminology verification
-4. Azure Portal UI consistency check
-5. Final quality review
+Azure Backup
 
-## Quality Standards
+Azure Virtual Machines
 
-Translations are reviewed based on:
+Log Analytics (KQL)
 
-- Microsoft official terminology
-- Azure Portal Japanese UI consistency
-- Technical accuracy
-- Natural Japanese readability
+## Technical Skills
 
-## Current Focus Areas
+Azure Monitor
 
-- Azure Monitor
-- Log Analytics
-- Azure RBAC
-- Azure Operations
+Azure Backup
 
-## Projects
+Azure VM
 
-### Azure Monitor - Deploy and configure Azure Monitor
+Azure RBAC
 
-Topics covered:
+Log Analytics
 
-- Log Analytics Workspace
-- Workspace Access Control
-- RBAC Roles
-- Data Retention
-- Health Status Alerts
+KQL
+
+Azure Operations
+
+## Translation Workflow
+
+AI Draft
+
+Manual Review
+
+Terminology Verification
+
+QA Review
 
 ## Repository Structure
+
 translations/
-└── azure-monitor/
-├── 01-introduction.md
-├── 02-log-analytics-workspace.md
-├── 03-workspace-access.md
-├── 04-data-retention.md
-└── 05-health-status-alerts.md
+
+portfolio/
+
+assets/
+
+## Future Learning
