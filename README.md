@@ -2,6 +2,8 @@
 
 ## About Me
 
+This repository contains original summaries, learning notes, and AI-assisted technical documentation created to demonstrate Azure knowledge, translation workflow, and documentation quality. It is not intended to reproduce Microsoft Learn content.
+
 ## Portfolio
 
 Azure Monitor
